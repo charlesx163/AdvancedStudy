@@ -1,0 +1,66 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache and settings
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.ide
+
+# Rider
+.idea/
+
+# Rider and Visual Studio Code settings
+*.sln.iml
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.jfm.*
+*.sln.ide
+
+# Backup files
+*~ 
+*.bak 
+*.swp 
+*.tmp 
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+**/bin/*
+**/obj/*
+
+# Logs
+*.log
+
+# Test Results
+TestResults/
+*.trx
+
+# Publish output
+publish/
+
+# Local development files
+.env
+*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Exclude Properties folder (if you want to exclude it)
+Properties/
